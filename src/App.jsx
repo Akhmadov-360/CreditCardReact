@@ -1,9 +1,9 @@
-import StepForm from "./components/StepByStep/StepForm";
+import CardUI from "./components/CreditCard/CardUI";
 
 function App() {
   return (
     <>
-      <StepForm></StepForm>
+      <CardUI></CardUI>
     </>
   );
 }
